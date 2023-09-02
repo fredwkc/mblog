@@ -1,0 +1,2 @@
+# mblog
+for django test
